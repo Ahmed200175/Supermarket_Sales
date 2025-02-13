@@ -9,4 +9,4 @@ Supeermarket Sales
 
 3. Contents: The Details of the data wrangling process are added to the [Data_Wrangling_Report](Data_Wrangling_Report.pdf).
 
-4. Results and Findings: The insights are addded to the [
+4. Results and Findings: The insights are addded to the [Business_Insights_Report](Business_Insights_Report.pdf).
